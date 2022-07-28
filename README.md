@@ -24,3 +24,13 @@
 ![garden](https://user-images.githubusercontent.com/77967977/180651412-bd11631a-bd0b-4d24-9943-e3d852fe7e22.jpg)
 
 #it was interesting
+
+## JS Basics
+![Basic-JavaScript](https://user-images.githubusercontent.com/77967977/181464045-e2ead652-7b2c-44de-8fc0-901153daa0b8.jpg)
+![Basic-Algorithm-Scripting](https://user-images.githubusercontent.com/77967977/181464050-ab2d147f-f729-428f-967e-94f6185d984b.jpg)
+![Basic-Data-Structures](https://user-images.githubusercontent.com/77967977/181464106-3371c82c-82e5-4ec6-b1e5-cc0873da91e4.jpg)
+![ES6](https://user-images.githubusercontent.com/77967977/181464120-802b4c64-1b1f-4aa4-936d-8231e6884fc6.jpg)
+![Functional-Programming](https://user-images.githubusercontent.com/77967977/181464137-4d959b1d-5069-4671-8abc-c0afefd0c18c.jpg)
+![Intermediate-Algorithm-Scripting](https://user-images.githubusercontent.com/77967977/181464182-89feb711-8679-4f80-9005-c33fe55ed9de.jpg)
+
+#too boring
